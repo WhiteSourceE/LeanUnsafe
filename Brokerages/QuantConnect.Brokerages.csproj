@@ -514,9 +514,6 @@
     <None Include="InteractiveBrokers\run-ib-controller.bat">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="InteractiveBrokers\run-ib-controller.sh">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Include="Oanda\RestV1\LICENSE.md" />
     <None Include="packages.config">
       <SubType>Designer</SubType>
